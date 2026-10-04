@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @EduardoPy-2025
-- 👀 I’m interested in lógica programação e desenvolvimento web
-- 🌱 I’m currently learning HTML,CSS, Django e desenvolvimento web
-- 💞️ I’m looking to collaborate on serviços logicos de programação
-- 📫 How to reach me @zmonster048gmail.com 
+- 👋 Hi, I’m luis eduardo
+- 👀 I’m interested in lógica programação e desenvolvimento beck-and (java)
+- 🌱 I’m currently learning java, back-end, apis and SQL
+- 💞️ I’m looking to collaborate on services progamación, desarollo back-end,support and systems
+- 📫 How to reach me @zmonster048gmail.com or luizfigueiredosantos2@gmail.com
 - 😄 Pronouns: luis
-- ⚡ Fun fact: Amo conhecimento em programação 
+- ⚡ Fun fact: I love TI and progamación 
 
 <!---
 EduardoPy-2025/EduardoPy-2025 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
