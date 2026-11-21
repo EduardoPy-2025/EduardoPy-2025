@@ -1,5 +1,5 @@
 - 👋 Hi, I’m luis eduardo
-- 👀 I’m interested in lógica programação e desenvolvimento beck-and (java)
+- 👀 I’m interested in lógica programação e desenvolvimento back-and (java)
 - 🌱 I’m currently learning java, back-end, apis and SQL
 - 💞️ I’m looking to collaborate on services progamación, desarollo back-end,support and systems
 - 📫 How to reach me @zmonster048gmail.com or luizfigueiredosantos2@gmail.com
